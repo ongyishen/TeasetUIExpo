@@ -24,3 +24,15 @@ npm start
 # Expo Show Case link
 [Expo  Link](https://expo.io/@ongeason/projects/MyTeasetExpo)
 
+# (Optional) Enable Yarn Package Management
+```
+npm install –global yarn
+```
+
+# (Optional) Install Expo CLI
+```
+npm install –global expo-cli
+```
+
+# Screenshots
+![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset1.png?raw=true) ![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset2.png?raw=true)
