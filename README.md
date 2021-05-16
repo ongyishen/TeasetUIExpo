@@ -42,7 +42,7 @@ npm install –global expo-cli
 
 # Screenshots
 
-![](https://github.com/ongyishen/TeasetUIExpo/blob/main/Sample.gif?raw=true)
+<img src="https://github.com/ongyishen/TeasetUIExpo/blob/main/Sample.gif?raw=true" width="200" height="400" />
 
 ![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset1.png?raw=true)
 ![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset2.png?raw=true)
