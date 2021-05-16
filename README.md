@@ -1,6 +1,8 @@
 # TeasetUIExpo
 Showcase Teaset React Navtive UI Library. A simple & easy to learn UI library to jump start your new project
 
+## Donation
+If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
@@ -8,7 +10,7 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 # Install all dependencies
 ```
-yarn --check files
+yarn install
 ```
 
 # Run the sample in expo
