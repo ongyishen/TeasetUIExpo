@@ -20,7 +20,7 @@ yarn install
 npm start
 ```
 
-# Original Work: Thanks to Teaset
+# Original Source: Thanks to Teaset
 
 [Github Link](https://github.com/rilyu/teaset)
 
