@@ -2,7 +2,9 @@
 Showcase Teaset React Navtive UI Library. A simple & easy to learn UI library to jump start your new project
 
 ## Donation
+
 If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
+
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
