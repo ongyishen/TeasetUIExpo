@@ -20,7 +20,7 @@ yarn install
 npm start
 ```
 
-# Original Source: Thanks to Teaset
+# Original Work: Thanks to Teaset
 
 [Github Link](https://github.com/rilyu/teaset)
 
@@ -39,4 +39,7 @@ npm install –global expo-cli
 ```
 
 # Screenshots
-![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset1.png?raw=true) ![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset2.png?raw=true)
+
+![](https://github.com/ongyishen/TeasetUIExpo/blob/main/Sample.gif?raw=true)
+![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset1.png?raw=true)
+![](https://github.com/rilyu/teaset/blob/master/screenshots/00-Teaset2.png?raw=true)
