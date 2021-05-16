@@ -27,7 +27,7 @@ npm start
 
 # Expo Publish Link
 [Expo  Link](https://expo.io/@ongeason/projects/MyTeasetExpo)
-![](https://github.com/ongyishen/TeasetUIExpo/ExpoQR.png?raw-true)
+![](https://github.com/ongyishen/TeasetUIExpo/blob/main/ExpoQR.png?raw=true)
 
 # (Optional) Enable Yarn Package Management
 ```
