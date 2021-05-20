@@ -32,12 +32,12 @@ npm start
 
 # (Optional) Enable Yarn Package Management
 ```
-npm install –global yarn
+npm install -g yarn
 ```
 
 # (Optional) Install Expo CLI
 ```
-npm install –global expo-cli
+npm install -g expo-cli
 ```
 
 # Screenshots
